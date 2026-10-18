@@ -1,6 +1,6 @@
-# Tellurion — website
+# Epicycle — website
 
-The public site for the Tellurion iPhone app: home, privacy policy and support.
+The public site for the Epicycle iPhone app: home, privacy policy and support.
 Plain HTML and CSS, served by GitHub Pages from the `main` branch root.
 
 - `index.html` — what the app is
